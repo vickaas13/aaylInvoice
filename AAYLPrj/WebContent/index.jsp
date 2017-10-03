@@ -75,7 +75,7 @@
 				<form action="LoginController" method="post">
 					<div class="field-wrap">
 						<label> Email Address<span class="req">*</span></label> 
-						<input type="email" name="email" value="a@g.com" required
+						<input type="email" name="email" value="vikas@gmail.com" required
 							autocomplete="off" />
 					</div>
 					<div class="field-wrap">

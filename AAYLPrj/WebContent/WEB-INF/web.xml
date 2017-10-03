@@ -10,5 +10,14 @@
     <welcome-file>default.jsp</welcome-file>
   </welcome-file-list>
   
+  <servlet>
+  <servlet-name>LoginServlet</servlet-name>
+  <servlet-class>com.aaylprj.LoginServlet</servlet-class>
+  </servlet>
+  
+  <servlet-mapping>
+  <servlet-name>LoginServlet</servlet-name>
+  <url-pattern>/LoginController</url-pattern>
+  </servlet-mapping>
   
 </web-app>
